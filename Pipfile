@@ -12,6 +12,7 @@ gensim = "*"
 sumy = "*"
 nltk = "*"
 selenium = "*"
+spacy = "*"
 
 [requires]
 python_version = "3.6"
